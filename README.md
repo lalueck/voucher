@@ -1,9 +1,13 @@
 ## Design doc Vocher App
-
+V 1.1.0, rewrote section on server
 ## Main components:
 
 # Server
-tasked to verify that only users with api key data can add or request data
+purpose:
+
+1. hold central database
+2. enable autohrised users to request data and add data from/to the database
+3. be light weight
 
 # Client
 has:
